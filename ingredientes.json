@@ -1,0 +1,12 @@
+[
+  {"pregunta":"¿Tienes barras de mantequilla?"},
+  {"pregunta": "¿Tienes leche condensada?"},
+  {"pregunta": "¿Tienes chocolate?"},
+  {"pregunta": "¿Tienes cafe?"},
+  {"pregunta": "¿Tienes Azucar para pastel?"},
+  {"pregunta": "¿Tienes galletas?"},
+  {"pregunta": "¿Tienes queso crema?"},
+  {"pregunta": "¿Tienes limones?"},
+  {"pregunta": "¿Tienes grenetina?"},
+  {"pregunta": "¿Que fruto dominara tu pastel?(si no contiene escribe no)"}
+]

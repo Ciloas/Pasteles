@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Pastel de chocolate",
+    "respuestas": {
+      "P1": "si",
+      "P2": "si",
+      "P3": "si",
+      "P4": "no",
+      "P5": "no",
+      "P6": "no",
+      "P7": "no",
+      "P8": "no",
+      "P9": "no",
+      "P10": "no"
+    },
+    "requisitos": "\n 1/2 barra de mantequilla\n 1 Lata de leche condensada\n 3 huevos\n 1/2 Taza de harina\n 3 barras de chocolate semiamargo"
+  },
+  {
+    "nombre": "Tiramisu",
+    "respuestas": {
+      "P1": "no",
+      "P2": "si",
+      "P3": "si",
+      "P4": "si",
+      "P5": "si",
+      "P6": "si",
+      "P7": "no",
+      "P8": "no",
+      "P9": "no",
+      "P10": "no"
+    },
+    "requisitos": "\n 100g de Leche condensada\n Cacao al gusto, de peferencia para espolvorear\n 4 cucharadas de cafe granulado\n 250g de azucar flor\n 500g galletes de champa\u00c3\u00b1a"
+  },
+  {
+    "nombre": "Cheesecake",
+    "respuestas": {
+      "P1": "si",
+      "P2": "si",
+      "P3": "no",
+      "P4": "no",
+      "P5": "no",
+      "P6": "si",
+      "P7": "si",
+      "P8": "si",
+      "P9": "si",
+      "P10": "fresa"
+    },
+    "requisitos": "\n 1 barra de mantequilla derretida\n 1 lata de leche condensada\n 30 galletas Maria molidas\n 3 paquetes de queso crema\n 2 limones rallados y en jugo\n 3 sobres de grenetina\n 1/4 de taza de fresas"
+  },
+  {
+    "nombre": "Red Velvet",
+    "respuestas": {
+      "P1": "si",
+      "P2": "no",
+      "P3": "si",
+      "P4": "no",
+      "P5": "si",
+      "P6": "no",
+      "P7": "si",
+      "P8": "no",
+      "P9": "no",
+      "P10": "vainilla"
+    },
+    "requisitos": "\n 2y 1/2 barra de mantequilla\n 1/4 de taza de cacao en polvo\n 4 tazas de Azucar impalpable tamizada\n 1 1/2 paquetes de Queso crema"
+  },
+  {
+    "nombre": "Pastel de zanahoria",
+    "respuestas": {
+      "P1": "si",
+      "P2": "no",
+      "P3": "no",
+      "P4": "no",
+      "P5": "si",
+      "P6": "no",
+      "P7": "si",
+      "P8": "no",
+      "P9": "no",
+      "P10": "zanahoria"
+    },
+    "requisitos": "\n 1/2 barras de mantequilla\n 1 taza de azucar glass\n 200g Queso crema\n 2 tazas de zanahoria rayada"
+  }
+]
